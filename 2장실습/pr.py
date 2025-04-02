@@ -1,0 +1,5 @@
+print("it's really hot!")
+print('i said "Hello!" to him.')
+print('He said "What\'s there?"')
+print("Newline character is |n, Tab character is |t.")
+print("Working directory is C:|workspace|mywork.")
