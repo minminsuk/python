@@ -1,7 +1,10 @@
 import turtle
+turtle.Turtle()
+turtle.bgcolor("black")
+turtle.pensize(2)
+turtle.pencolor("red")
 turtle.setup(width = 400, height = 400)
-myTurtle = turtle.Turtle()
 for i in range(200):
-    myTurtle.forward(i)
-    myTurtle.left(93)
+    turtle.forward(i)
+    turtle.left(93)
 turtle.done()
